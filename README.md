@@ -109,7 +109,7 @@ The images used in the template are not included in the main download file, they
 <span>Nababur Rahaman</span>
 <ul>
   <li><a href='https://github.com/nababur'>Author profile</a></li>
-   <li><a href='https://codeceil.com/'>codeceil.com</a></li>
+   <li><a href='https://codeceil.com/'>Website: codeceil.com</a></li>
 </ul>
 <h4>Happy Open Source....</h4>
 </div>

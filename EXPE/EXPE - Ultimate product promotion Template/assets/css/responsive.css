@@ -1,0 +1,802 @@
+
+/*
+  Theme Name: Expe
+  Author: Nababur Rahaman
+  Support: nababurbd@gmail.com
+  Author URL: https://bootelements.com/author
+  Description: One page Bootstrap HTML5 Template.
+  Version: 1.0
+*/
+
+
+/* Medium Layout: 1280px. */
+
+@media only screen and (min-width: 992px) and (max-width: 1280px) {
+.slider-cap-info h2 {
+	font-size: 36px;
+}
+.slider-cap-info {
+	padding-top: 95px;
+}
+.testi-content {
+	width: 60%;padding-top: 0px;
+}
+.testi-thumb {
+	margin-right: 30px;
+	margin-top: 15px;
+}
+
+.p-info h2 {
+	font-size: 25px;
+	font-weight: 600;
+	text-transform: uppercase;
+	display: block;
+	color: #1d2025;
+	line-height: 35px;
+	margin-bottom: 20px;
+}
+#product-order .preview-thumbnail.nav-tabs li img {
+	max-width: 75%;
+	display: block;
+}
+.widget-title h4 {
+	font-size: 16px;
+}
+.media-body p {
+	font-size: 14px;
+	line-height: 18px;
+}
+
+.media-body h5 a {
+	font-size: 13px;
+}
+.post-social-share ul.list-unstyled li.list-inline-item a {
+
+	padding: 8px 30px;
+}
+.widget-instagram ul li a img {
+    border-radius: 2px;
+    width: 58px;
+}
+.our-latest-product .col-md-6 {
+    padding-right: 15px !important;
+    padding-left: 15px!important;
+}
+.hover-works {
+
+    right: 0;
+}
+.quantity-btn .input-group > .custom-file, .input-group > .custom-select, .input-group > .form-control {
+    height: 45.2px;
+}
+.p-quantity {
+    margin-top: 0;
+}
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Tablet Layout: 768px. */
+
+@media only screen and (min-width: 767px) and (max-width: 991px) {
+.header-call-to-action ul li {
+
+    padding-right: 10px;
+}
+.header-login-register {
+	float: none !important;
+	text-align: center !important;
+	margin: 0px auto;
+	display: block;
+}
+.d-hide{display: block}
+.m-hide{display: none}
+
+.slider-cap-info {
+	padding-top:20px;
+}
+.slider-cap-thumb img{display: block;margin: 0px auto;}
+#slider-home .carousel-indicators {
+	display: none;
+}
+
+
+.carousel-inner {
+	padding-bottom: 30px;
+}
+#header-nav nav .top-manu ul li.nav-item a {
+	font-size: 16px;
+	color: #929292;
+	text-transform: uppercase;
+	padding: 10px 26px 10px 30px;
+	display: block;
+	text-decoration: none;
+	list-style: none;
+}
+#header-nav nav .top-manu ul li.nav-item a.btn-expe {
+	padding: 9px 42px 9px 18px;
+
+}
+.m-pdding{padding-top: 20px}
+.no-padTab{padding-top: 0px}
+.m-margin{margin-top: 140px}
+.section-title h1 {
+	text-align: center;
+}
+.feature-icon {
+	text-align: center;
+}
+.feature-count {
+	text-align: center;
+}
+.best-watch-info {
+	margin-bottom: 30px;
+}
+
+.testi-thumb {
+	width: 30%;
+	margin-right: 20px;
+	padding-top: 10px;
+}
+.testi-content {
+	width: 62%;
+	padding-right: 15px;
+	padding-top: 0;
+}
+
+#product-order .preview-thumbnail.nav-tabs {
+	top: 23%;
+}
+#our-latest-product .filters ul li {
+    margin-right: 15px;
+    padding: 10px 19px;
+}
+
+nav.blog-pagi {
+    margin-top: 30px;
+}
+
+.single-post-widgets {
+    margin-top: 40px;
+}
+.our-latest-product .col-md-6 {
+    padding-right: 15px !important;
+    padding-left: 15px!important;
+}
+.hover-works {
+
+    right: 0;
+}
+.thumbnail img{width: 100%}
+}
+
+
+
+
+
+
+/* Mobile Layout: 320px. */
+
+@media only screen and (max-width: 767px) {
+.header-call-to-action ul li {
+
+    padding-right: 10px;
+}
+.header-login-register {
+	float: none !important;
+	text-align: center !important;
+	margin: 0px auto;
+	display: block;
+}
+.d-hide{display: block}
+.m-hide{display: none}
+
+.slider-cap-info {
+	padding-top:20px;
+}
+.slider-cap-thumb img{display: block;margin: 0px auto;}
+#slider-home .carousel-indicators {
+	display: none;
+}
+
+
+.carousel-inner {
+	padding-bottom: 30px;
+}
+#header-nav nav .top-manu ul li.nav-item a {
+	font-size: 16px;
+	color: #929292;
+	text-transform: uppercase;
+	padding: 10px 26px 10px 30px;
+	display: block;
+	text-decoration: none;
+	list-style: none;
+}
+#header-nav nav .top-manu ul li.nav-item a.btn-expe {
+	padding: 9px 42px 9px 18px;
+
+}
+.m-pdding{padding-top: 20px}
+.m-margin{margin-top: 140px}
+.section-title h1 {
+	text-align: center;
+}
+.feature-icon {
+	text-align: center;
+}
+.feature-count {
+	text-align: center;
+}
+.best-watch-info {
+	margin-bottom: 30px;
+}
+
+
+.testi-content {
+    width: 100%;
+    padding-right: 15px;
+    padding-top: 10px;
+}
+
+#product-order .preview-thumbnail.nav-tabs {
+    top: 15%;
+}
+#our-latest-product .filters ul li {
+    margin-right: 15px;
+    padding: 10px 19px;
+}
+.slider-cap-info h2 {
+    color: #1d2025;
+    font-size: 26px;
+    line-height: 30px;
+    margin-top: 9px;
+}
+.slider-cap-info ul.cap-btn li {
+    float: none;
+    margin-bottom: 8px;
+}
+.slider-cap-info ul.cap-btn li a.btn-explore {
+
+    margin-left: 0;
+}
+.featured-item {
+    text-align: center;
+}
+.section-space {
+    padding: 60px 0;
+}
+.section-title h1 {
+    font-size: 22px;
+}
+.best-watch-info h1 {
+    font-size: 20px;
+}
+#our-latest-product .filters ul li {
+    float: none;
+
+    margin-right: 30px;
+
+    padding: 10px 25px;
+    text-align: center;
+    margin-bottom: 5px
+}
+#our-latest-product .filters {
+    margin-bottom: 30px;
+}
+#our-latest-product .product-thumb a img {
+    width: 100%;
+}
+.hover-works {
+    right: 0;
+}
+.offset-2 {
+    margin-left: 0;
+}
+.testi-thumb {
+    width: 100%;
+    margin-right: 0;
+    padding-top: 10px;
+    float: none !important;
+}
+.testi-thumb {
+    padding-top: 0;
+    float: none !important;
+}
+
+#product-order .preview-thumbnail.nav-tabs {
+    border: none;
+    position: absolute;
+    width: 32px;
+    text-align: right;
+    right: 30px;
+    display: block;
+    top: 15%;
+}
+.p-info h2 {
+    font-size: 20px;
+    font-weight: 600;
+    text-transform: uppercase;
+    display: block;
+    color: #1d2025;
+    line-height: 31px;
+    margin-bottom: 20px;
+}
+.singel-blog .blog-cont {
+    padding: 20px;
+}
+.top-arrow{display: none}
+
+.footer-copyright p {
+    font-size: 14px;
+}
+
+.quantity-btn {
+    margin-right: 40px;
+    margin-bottom: 10px;
+}
+a.logo img{    width: 70%;}
+.default-breadcrumb-title h4 {
+    font-size: 35px;
+}
+.single-post h2, .single-post-detail h2{
+    color: #ff9800;
+    font-size: 22px;
+    line-height: 28px;
+}
+
+nav.blog-pagi ul li a {
+    display: block;
+    color: #ff9800;
+    padding: 12px 12px;
+    text-transform: uppercase;
+    font-size: 14px;
+}
+.media-body h5 a {
+    color: #1d2025;
+    font-size: 16px;
+    text-transform: uppercase;
+    font-weight: 500;
+    line-height: 18px;
+}
+.media-body p {
+    font-size: 14px;
+    line-height: 20px;
+}
+
+.single-two-thumb img{display: block;width: 100%}
+.comment-area h2, .post-comment-form h2 {
+    font-size: 16px;
+}
+.comment-display h5 {
+    font-size: 14px;
+}
+.author-title3 {
+    padding-left: 10px;
+}
+.author-hire-resume-btn {
+    margin-left: 6px;
+    padding-left: 0px;
+}
+.post-video-img {
+    width: 100%;
+    margin: 30px auto;
+}
+.post-social-share ul.list-unstyled li.list-inline-item {
+    margin-right: 0px;
+    float: none;
+    margin-bottom: 5px;
+    text-align: center;
+    display: inline-block;
+}
+
+.comment-display .media img {
+    width: 19%;
+}
+.single-post-widgets {
+    margin-top: 30px;
+}
+.post-social-share h2.share-tag {
+    float: none;
+}
+#our-prcing-part {
+    padding-bottom: 120px;
+}
+
+.widget-instagram ul li a img {
+    border-radius: 2px;
+    width: 35px;
+}
+.slider-cap-info ul.cap-btn li a {
+    text-align: center;
+}
+
+.header-login-register ul li i.flaticon-user::before {
+    margin-right: 10px;
+    margin-left: 5px;
+}
+
+.header-call-to-action ul li.t-email {
+    position: relative;
+    padding-left: 32px;
+}
+.header-call-to-action ul li i.flaticon-email::before {
+    font-size: 24px;
+    color: #D6840E;
+    text-align: center;
+    margin: 0px auto;
+    display: block;
+    line-height: 22px;
+    margin-right: 0px;
+    position: absolute;
+    top: 21px;
+    left: 0;
+}
+.header-call-to-action ul li {
+    float: left;
+    color: #d9d9d9;
+    font-size: 14px;
+    line-height: 60px;
+    padding-right: 25px;
+    height: 35px;
+}
+.header-call-to-action ul li i::before {
+    font-size: 16px;
+}
+.thumbnail img{width: 100%}
+.post-social-share ul.list-unstyled li.list-inline-item a {
+    padding: 8px 13px;
+    font-size: 13px;
+}
+.quantity-btn .btn-danger {
+    padding: 6px 10px;
+}
+.quantity-btn .btn-success {
+    padding: 6px 10px;
+}
+.quantity-btn .input-group > .custom-file, .input-group > .custom-select, .input-group > .form-control {
+    width: 40px;    height: 45.4px;
+}
+.order-btn button {
+    padding: 10px 20px;
+}
+.quantity-btn {
+    margin-right: 20px;
+}
+
+.singel-blog .blog-cont h4 {
+    font-size: 19px;
+}
+.p-review {
+    text-align: center;
+}
+
+
+
+}
+
+
+
+
+
+
+
+/* Wide Mobile Layout: 480px. */
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+.header-call-to-action ul li {
+
+    padding-right: 10px;
+}
+.header-login-register {
+    float: none !important;
+    text-align: center !important;
+    margin: 0px auto;
+    display: block;
+}
+.d-hide{display: block}
+.m-hide{display: none}
+
+.slider-cap-info {
+    padding-top:20px;
+}
+.slider-cap-thumb img{display: block;margin: 0px auto;}
+#slider-home .carousel-indicators {
+    display: none;
+}
+
+
+.carousel-inner {
+    padding-bottom: 30px;
+}
+#header-nav nav .top-manu ul li.nav-item a {
+    font-size: 16px;
+    color: #929292;
+    text-transform: uppercase;
+    padding: 10px 26px 10px 30px;
+    display: block;
+    text-decoration: none;
+    list-style: none;
+}
+#header-nav nav .top-manu ul li.nav-item a.btn-expe {
+    padding: 9px 42px 9px 18px;
+
+}
+.m-pdding{padding-top: 20px}
+.m-margin{margin-top: 140px}
+.section-title h1 {
+    text-align: center;
+}
+.feature-icon {
+    text-align: center;
+}
+.feature-count {
+    text-align: center;
+}
+.best-watch-info {
+    margin-bottom: 30px;
+}
+
+
+.testi-content {
+    width: 100%;
+    padding-right: 15px;
+    padding-top: 10px;
+}
+
+#product-order .preview-thumbnail.nav-tabs {
+    top: 15%;
+}
+#our-latest-product .filters ul li {
+    margin-right: 15px;
+    padding: 10px 19px;
+}
+.slider-cap-info h2 {
+    color: #1d2025;
+    font-size: 26px;
+    line-height: 30px;
+    margin-top: 9px;
+}
+.slider-cap-info ul.cap-btn li {
+    float: none;
+    margin-bottom: 8px;
+}
+.slider-cap-info ul.cap-btn li a.btn-explore {
+
+    margin-left: 0;
+}
+.featured-item {
+    text-align: center;
+}
+.section-space {
+    padding: 60px 0;
+}
+.section-title h1 {
+    font-size: 22px;
+}
+.best-watch-info h1 {
+    font-size: 20px;
+}
+#our-latest-product .filters ul li {
+    float: none;
+
+    margin-right: 30px;
+
+    padding: 10px 25px;
+    text-align: center;
+    margin-bottom: 5px
+}
+#our-latest-product .filters {
+    margin-bottom: 30px;
+}
+#our-latest-product .product-thumb a img {
+    width: 100%;
+}
+.hover-works {
+    right: 0;
+}
+.offset-2 {
+    margin-left: 0;
+}
+.testi-thumb {
+    width: 100%;
+    margin-right: 0;
+    padding-top: 10px;
+    float: none !important;
+}
+.testi-thumb {
+    padding-top: 0;
+    float: none !important;
+}
+
+#product-order .preview-thumbnail.nav-tabs {
+    border: none;
+    position: absolute;
+    width: 32px;
+    text-align: right;
+    right: 30px;
+    display: block;
+    top: 15%;
+}
+.p-info h2 {
+    font-size: 20px;
+    font-weight: 600;
+    text-transform: uppercase;
+    display: block;
+    color: #1d2025;
+    line-height: 31px;
+    margin-bottom: 20px;
+}
+.singel-blog .blog-cont {
+    padding: 20px;
+}
+.top-arrow{display: none}
+
+.footer-copyright p {
+    font-size: 14px;
+}
+
+.quantity-btn {
+    margin-right: 40px;
+    margin-bottom: 10px;
+}
+a.logo img{    width: 70%;}
+.default-breadcrumb-title h4 {
+    font-size: 35px;
+}
+.single-post h2, .single-post-detail h2{
+    color: #ff9800;
+    font-size: 22px;
+    line-height: 28px;
+}
+
+nav.blog-pagi ul li a {
+    display: block;
+    color: #ff9800;
+    padding: 12px 12px;
+    text-transform: uppercase;
+    font-size: 14px;
+}
+.media-body h5 a {
+    color: #1d2025;
+    font-size: 16px;
+    text-transform: uppercase;
+    font-weight: 500;
+    line-height: 18px;
+}
+.media-body p {
+    font-size: 14px;
+    line-height: 20px;
+}
+
+.single-two-thumb img{display: block;width: 100%}
+.comment-area h2, .post-comment-form h2 {
+    font-size: 16px;
+}
+.comment-display h5 {
+    font-size: 14px;
+}
+.author-title3 {
+    padding-left: 10px;
+}
+.author-hire-resume-btn {
+    margin-left: 6px;
+    padding-left: 0px;
+}
+.post-video-img {
+    width: 100%;
+    margin: 30px auto;
+}
+.post-social-share ul.list-unstyled li.list-inline-item {
+    margin-right: 0px;
+    float: none;
+    margin-bottom: 5px;
+    text-align: center;
+    display: inline-block;
+}
+
+.comment-display .media img {
+    width: 19%;
+}
+.single-post-widgets {
+    margin-top: 30px;
+}
+.post-social-share h2.share-tag {
+    float: none;
+}
+#our-prcing-part {
+    padding-bottom: 120px;
+}
+
+.widget-instagram ul li a img {
+    border-radius: 2px;
+    width: 35px;
+}
+.slider-cap-info ul.cap-btn li a {
+    text-align: center;
+}
+
+.header-login-register ul li i.flaticon-user::before {
+    margin-right: 10px;
+    margin-left: 5px;
+}
+
+.header-call-to-action ul li.t-email {
+    position: relative;
+    padding-left: 32px;
+}
+.header-call-to-action ul li i.flaticon-email::before {
+    font-size: 24px;
+    color: #D6840E;
+    text-align: center;
+    margin: 0px auto;
+    display: block;
+    line-height: 22px;
+    margin-right: 0px;
+    position: absolute;
+    top: 21px;
+    left: 0;
+}
+.header-call-to-action ul li {
+    float: left;
+    color: #d9d9d9;
+    font-size: 14px;
+    line-height: 60px;
+    padding-right: 25px;
+    height: 35px;
+}
+.header-call-to-action ul li i::before {
+    font-size: 16px;
+}
+.thumbnail img{width: 100%}
+.post-social-share ul.list-unstyled li.list-inline-item a {
+    padding: 8px 13px;
+    font-size: 13px;
+}
+.quantity-btn .btn-danger {
+    padding: 6px 10px;
+}
+.quantity-btn .btn-success {
+    padding: 6px 10px;
+}
+.quantity-btn .input-group > .custom-file, .input-group > .custom-select, .input-group > .form-control {
+    width: 40px;    height: 45.4px;
+}
+.order-btn button {
+    padding: 10px 20px;
+}
+.quantity-btn {
+    margin-right: 20px;
+}
+
+.singel-blog .blog-cont h4 {
+    font-size: 19px;
+}
+.p-review {
+    text-align: center;
+}
+
+
+
+}
+
+
+
